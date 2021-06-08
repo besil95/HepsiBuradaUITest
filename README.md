@@ -1,4 +1,4 @@
 # HepsiBuradaUITest
 Selenium Test Automation
 
-java: jbr-11 and maven: 3
+java: 1.8 and maven: 3
